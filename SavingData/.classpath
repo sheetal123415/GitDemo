@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/antlr-2.7.5H3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/hibernate jar/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kiran/Desktop/jars/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
